@@ -1,0 +1,6 @@
+{
+  "name": "Creative Design Agency",
+  "description": "Premium landing page for a creative design and product development agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

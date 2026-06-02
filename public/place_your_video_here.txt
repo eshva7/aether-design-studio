@@ -1,0 +1,3 @@
+To use your custom background video:
+1. Upload your 'eshva-hero-video.mp4' file directly into this 'public/' folder.
+2. The application will immediately pick it up and stream it with 100% opacity, zero overlays, and continuous autoplay.
