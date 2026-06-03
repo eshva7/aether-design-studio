@@ -153,7 +153,7 @@ export default function ProjectEstimator() {
                 Interactive Sizing Engine
               </span>
             </div>
-            <h2 className="font-display font-bold text-[36px] md:text-[54px] leading-[1.05] tracking-[-0.03em] text-[#111111] mb-6">
+            <h2 className="font-anton uppercase text-[32px] md:text-[48px] leading-[1.1] tracking-[0.01em] text-[#111111] mb-6">
               Estimate your product design & dev scope instantly.
             </h2>
             <p className="font-sans text-[18px] text-[#666666] leading-relaxed">
