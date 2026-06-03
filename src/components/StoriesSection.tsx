@@ -26,7 +26,7 @@ export default function StoriesSection() {
                 Case Studies
               </span>
             </div>
-            <h2 className="font-anton uppercase text-[32px] md:text-[48px] leading-[1.1] tracking-[0.01em] text-[#111111]">
+            <h2 className="font-anton uppercase text-[32px] md:text-[48px] leading-[1.1] tracking-[0.01em] text-[#111111] mb-6">
               Selected projects that shape modern design standards.
             </h2>
           </div>
